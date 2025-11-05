@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: HealTAC 2025
+title: HealTAC 2026
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   8th Healthcare Text Analytics Conference
-url: https://healtac2025.github.io/
+url: https://healtac2026.github.io/
 baseurl: /
 twitter_username: username
 github_username: username
