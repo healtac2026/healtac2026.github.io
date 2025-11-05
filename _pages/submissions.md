@@ -64,22 +64,22 @@ The submission template can be accessed here: <a href="https://view.officeapps.l
    
   <tr>
     <td>Deadline for all contributions</td>
-    <td><del>March 28th</del>, April 4th, 2025</td>
+    <td>TBA</td>
   </tr>
 
   <tr>
   	<td>Notification of acceptance</td>
-    <td>April 18th, 2025</td>
+    <td>TBA</td>
   </tr>
   
   <tr>
     <td>Workshop</td>
-    <td>June 16th, 2025 </td>
+    <td>JTBA</td>
   </tr>
   
   <tr>
     <td>Conference</td>
-    <td>June 16-18th 2025</td>
+    <td>TBA</td>
   </tr>
 </table>
  
