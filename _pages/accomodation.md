@@ -38,11 +38,11 @@ a:active {
 <h1>Campus Accomodation</h1><br>
 --->
 <p>
-We provide the accommodation option at the University's student hall, priced at <strong>£43 per night</strong>. Bookings can be made for stays from Monday, 16th June 2025, with departures no later than Thursday, 19th June 2025. You are welcome to book for any number of nights within this period.  Note that the University accommodation will <strong>not be available</strong> before Monday, 16th June - people requiring accommodation on Sunday, 15th June, or earlier should consider alternative local hotels.
+We provide the accommodation option at the University's student hall, priced at <strong>£TBA per night</strong>. Bookings can be made for stays from TBA , with departures no later than TBA . You are welcome to book for any number of nights within this period.  Note that the University accommodation will <strong>not be available</strong> before TBA  - people requiring accommodation on TBA , or earlier should consider alternative local hotels.
 </p>
 
 <p>
-  A link for the University of Glasgow accommodation and the promotion code for booking will be provided shortly after the registration.
+  A link for the TBA and the promotion code for booking will be provided shortly after the registration.
 </p>
 
 <h5 style="color:#003865; font-family:sans-serif;">Aleternative local hotels:</h5>
