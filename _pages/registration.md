@@ -16,18 +16,18 @@ body {
 <body>
 <br>
 
-Please book via the <a href="https://www.eventbrite.co.uk/e/healtac-2025-8th-healthcare-text-analytics-conference-registration-1255748340089" style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;" target="_blank">Eventbrite page</a>.
+Please book via the <a href="https://TBA.com" style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;" target="_blank">TBA page</a>.
 <p></p>
-Early registration fees (<strong>by 16.00 GMT May 29th 2025</strong>):
+Early registration fees (<strong>by TBA</strong>):
 <ul>
-  <li>Full registration: £200</li>
-  <li>Student registration: £100</li>
+  <li>Full registration: £TBA</li>
+  <li>Student registration: £TBA</li>
 </ul>
 
-Late registration fees (<strong>after 16.00 GMT May 29th 2025</strong>):
+Late registration fees (<strong>after TBA</strong>):
 <ul>
-  <li>Full registration: £300</li>
-  <li>Student registration: £150</li>
+  <li>Full registration: £TBA</li>
+  <li>Student registration: £TBA</li>
 </ul>
 
 <!-- <p style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;">The fee includes participation for three days (including the tutorial day).
