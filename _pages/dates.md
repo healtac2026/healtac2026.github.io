@@ -66,42 +66,42 @@ td {
   
   <tr>
     <td>First Call</td>
-    <td>January, 2025</td>
+    <td>TBA</td>
   </tr>
   
   <tr>
     <td>Submission template available</td>
-    <td>January, 2025</td>
+    <td>TBA</td>
   </tr> 
   
   <tr>
     <td>Latex template available</td>
-    <td>January, 2025</td>
+    <td>TBA</td>
   </tr>
   
   <tr>
     <td>Submission site available</td>
-    <td>March, 2025</td>
+    <td>TBA</td>
   </tr>
   
   <tr>
     <td>Deadline for all contributions</td>
-    <td>March 28th, 2025</td>
+    <td>TBA</td>
   </tr>
 
   <tr>
   	<td>Notification of acceptance</td>
-    <td>April 15th, 2025</td>
+    <td>TBA</td>
   </tr>
   
   <tr>
     <td>Tutorial</td>
-    <td>June 16th, 2025 </td>
+    <td>TBA</td>
   </tr>
   
   <tr>
     <td>Conference</td>
-    <td>June 16-18th 2025</td>
+    <td>TBA</td>
   </tr>
 </table>
       </div>
