@@ -45,7 +45,7 @@ We provide the accommodation option at the University's student hall, priced at 
   A link for the TBA and the promotion code for booking will be provided shortly after the registration.
 </p>
 
-<h5 style="color:#003865; font-family:sans-serif;">Aleternative local hotels:</h5>
+<h5 style="color:#003865; font-family:sans-serif;">Alternative local hotels:</h5>
 
 <ul>
   <li><a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-glasgow?msockid=0daa796588e869933e696d8e89d868bb">Radisson Blu Glasgow</a></li>
