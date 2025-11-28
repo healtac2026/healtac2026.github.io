@@ -16,7 +16,7 @@
 title: HealTAC 2026
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  8th Healthcare Text Analytics Conference
+  9th Healthcare Text Analytics Conference
 url: https://healtac2026.github.io/
 baseurl: /
 twitter_username: username
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  # name   : "HealTAC 2025"
+  # name   : "HealTAC 2026"
   # avatar : "/assets/images/bio-photo.jpg"
-  # bio    : "8th Healthcare Text Analytics Conference"
+  # bio    : "9th Healthcare Text Analytics Conference"
   links:
     # - label: "<strong style='color:#003865;'>TUTORIAL</strong><br><span style='color: black;'>Resources<br>"
     #   icon: "fas fa-laptop-code"
