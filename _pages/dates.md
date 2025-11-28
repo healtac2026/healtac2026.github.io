@@ -101,7 +101,7 @@ td {
   
   <tr>
     <td>Conference</td>
-    <td>TBA</td>
+    <td>June 8-10th 2026</td>
   </tr>
 </table>
       </div>
