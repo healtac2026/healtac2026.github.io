@@ -36,13 +36,13 @@ a:active {
 <body>
     <h4>Conference Chairs</h4> 
     <ul>
-      <li>Honghan Wu, University of Glasgow</li>
-      <li>Arlene Casey, University of Edinburgh</li>
+      <li>Angus Roberts, King College London</li>
+      <li>Elizabeth Ford, University of Brighton/Sussex Medical School</li>
     </ul>
     <h4>Programme Committee Chairs</h4>
     <ul>
-      <li>Beatrice Alex, University of Edinburgh</li>
-      <li>Goran Nenadic, University of Manchester</li>
+      <li>Phoey Teh, Wrexham University</li>
+      <li>Arlene Casey, University of Edinburgh</li>
     </ul>
     <h4>PhD Forum Chairs</h4>
     <ul>
