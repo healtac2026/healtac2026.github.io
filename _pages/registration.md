@@ -16,7 +16,7 @@ body {
 <body>
 <br>
 "To be announced"
-  <!--
+<!--
 Please book via the <a href="https://TBA.com" style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;" target="_blank">TBA page</a>.
 <p></p>
 Early registration fees (<strong>by TBA</strong>):
