@@ -1,7 +1,6 @@
 ---
 permalink: /workshop/
 title: "Pre-conference workshop on Monday 8 June to be announced"
-<!--
 ---
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -89,6 +88,7 @@ td {
   font-size: 14px;
 }
 </style>
+<!--
 <p>Workshop is open to all. If you are interested in presenting at the workshop, please email <span>angus.roberts at kcl.ac.uk</span> with a short abstract for consideration.</p>
 
 <p>This one day workshop is organised by <a href="https://datamind.org.uk/">DATAMIND - The Health Data Research Hub for Mental Health</a>, the hub for mental health informatics research development. Whilst <a href="https://datamind.org.uk/">DATAMIND</a> has a specific focus on mental health, it is expected that the workshop will be of interest and relevance to people from across the entire health text analytics community. The workshop will consider application of the "New NLP" to all aspects of mental health: research, clinical care and therapy.</p>
