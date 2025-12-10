@@ -125,7 +125,6 @@ author:
     #     <br><br>
     #   icon: "fas fa-handshake"
     #   url: ""
-    <!--
     - label: |
         <strong style='color:#003865;'>Sponsors</strong>
       icon: "fas fa-handshake"
@@ -178,7 +177,6 @@ author:
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
       url: "https://www.ncrm.ac.uk/"
--->
     - label: "<br><br><strong style='color:#003865;'>Previous HealTACs</strong><br>"
       icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-conference-series/
