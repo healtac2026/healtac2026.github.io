@@ -127,52 +127,22 @@ author:
       url: ""
     - label: |
         <div style="display: flex; flex-direction: column;">
-          <img src="/assets/images/sponsors/HDR UK.jpg" alt="HDR UK" style="margin-bottom: 2.5px; max-width: 100px;">
-        </div>
-      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://www.hdruk.ac.uk/"
-    - label: |
-        <div style="display: flex; flex-direction: column;">
           <img src="/assets/images/sponsors/HealTex.jpeg" alt="HealTex" style="margin-bottom: 2.5px; max-width: 100px;">
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
       url: "http://healtex.org/"
     - label: |
         <div style="display: flex; flex-direction: column;">
-          <img src="/assets/images/sponsors/CogStack.png" alt="CogStack" style="margin-bottom: 2.5px; max-width: 100px;">
+          <img src="/assets/images/sponsors/kcl-logo.svg" alt="King's College London" style="margin-bottom: 2.5px; max-width: 100px;">
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://cogstack.org/"
+      url: "https://www.kcl.ac.uk/"
     - label: |
         <div style="display: flex; flex-direction: column;">
-          <img src="/assets/images/sponsors/DATAMIND.png" alt="CogStack" style="margin-bottom: 2.5px; max-width: 100px;">
+          <img src="/assets/images/sponsors/BSMS-Logo-White.png" alt="Brighton and Sussex Medical School" style="margin-bottom: 2.5px; max-width: 100px;">
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://datamind.org.uk/"
-    - label: |
-        <div style="display: flex; flex-direction: column;">
-          <img src="/assets/images/sponsors/Frontiers.jpg" alt="Frontiers" style="margin-bottom: 2.5px; max-width: 100px;">
-        </div>
-      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://www.frontiersin.org/"
-    - label: |
-        <div style="display: flex; flex-direction: column;">
-          <img src="/assets/images/sponsors/University of Glasgow.png" alt="University of Glasgow" style="margin-bottom: 2.5px; max-width: 100px;">
-        </div>
-      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://www.gla.ac.uk/"
-    - label: |
-        <div style="display: flex; flex-direction: column;">
-          <img src="/assets/images/sponsors/Research Data Scotland.png" alt="Research Data Scotland" style="margin-bottom: 2.5px; max-width: 100px;">
-        </div>
-      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://www.researchdata.scot/"
-    - label: |
-        <div style="display: flex; flex-direction: column;">
-          <img src="/assets/images/sponsors/NCRM.jpg" alt="NCRM" style="margin-bottom: 2.5px; max-width: 100px;">
-        </div>
-      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://www.ncrm.ac.uk/"
+      url: "https://www.bsms.ac.uk/"      
     - label: "<br><br><strong style='color:#003865;'>Previous HealTACs</strong><br>"
       icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-conference-series/
