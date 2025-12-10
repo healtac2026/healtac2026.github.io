@@ -15,7 +15,8 @@ body {
 </head>
 <body>
 <br>
-
+"To be announced"
+  <!--
 Please book via the <a href="https://TBA.com" style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;" target="_blank">TBA page</a>.
 <p></p>
 Early registration fees (<strong>by TBA</strong>):
@@ -30,7 +31,7 @@ Late registration fees (<strong>after TBA</strong>):
   <li>Student registration: £TBA</li>
 </ul>
 
-<!-- <p style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;">The fee includes participation for three days (including the tutorial day).
+ <p style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;">The fee includes participation for three days (including the tutorial day).
 </p> 
 
 <p style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;">
