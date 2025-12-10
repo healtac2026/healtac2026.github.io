@@ -128,12 +128,6 @@ author:
       url: ""
     - label: |
         <div style="display: flex; flex-direction: column;">
-          <img src="/assets/images/sponsors/HealTex.jpeg" alt="HealTex" style="margin-bottom: 2.5px; max-width: 100px;">
-        </div>
-      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "http://healtex.org/"
-    - label: |
-        <div style="display: flex; flex-direction: column;">
           <img src="/assets/images/sponsors/kcl-logo.svg" alt="King's College London" style="margin-bottom: 2.5px; max-width: 100px;">
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
