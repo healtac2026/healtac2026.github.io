@@ -36,16 +36,16 @@ a:active {
 <!--- <h5 style="color:#003865; font-family: sans-serif;">Kindly note that accommodation must be booked separately from registration.</h5>
 
 <h1>Campus Accomodation</h1><br>
-```
+<!--
 <p>
 We provide the accommodation option at the University's student hall, priced at <strong>£TBA per night</strong>. Bookings can be made for stays from TBA , with departures no later than TBA . You are welcome to book for any number of nights within this period.  Note that the University accommodation will <strong>not be available</strong> before TBA  - people requiring accommodation on TBA , or earlier should consider alternative local hotels.
 </p> 
-```
+-->
 <p>
   Travel and accommodation details are available on the web site - hyperlink.
 </p>
 
-```
+<!--
 h5 style="color:#003865; font-family:sans-serif;">Alternative local hotels:</h5>
 
 <ul>
@@ -55,6 +55,6 @@ h5 style="color:#003865; font-family:sans-serif;">Alternative local hotels:</h5>
 <li><a href="https://www.mercureglasgow.co.uk/">Mercure Glasgow</a></li>
 <li><a href="https://www.marriott.com/en-us/hotels/glaos-moxy-glasgow-sec/overview/">Moxy Glasgow SEC</a></li>
 </ul>
-```
+-->
  
 </body>
