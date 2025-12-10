@@ -344,7 +344,7 @@ Current PhD students  and early career researchers will present their on-going r
 Throughout the conference, we will have presentations from the community across the UK and internationally, including talks, software demos and posters. 
 <h5 style="color:#003865; font-family: sans-serif;">Please note that the poster size is A0 portrait, but A1 portrait is also acceptable.</h5>
 --->
-
+<!----
 <h4 style="color:#009999;">Ligthning talks</h4>
 <ul>
 <li>Elizabeth Remfry, Jaya Chaturvedi, Sarah Markham, Elizabeth Ford and Mel Ramasawmy:	Co-design of an Animated Video to Explain Large Language Models and Their Use in Research</li>
