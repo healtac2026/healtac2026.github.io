@@ -15,8 +15,8 @@ body {
 </head>
 <body>
 <br>
-
-Please book via the <a href="https://TBA.com" style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;" target="_blank">TBA page</a>.
+Registration will open in early January
+<!-- Please book via the <a href="https://TBA.com" style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;" target="_blank">TBA page</a>.-->
 <p></p>
 Early registration fees (<strong>by TBA</strong>):
 <ul>
