@@ -1,6 +1,7 @@
 ---
 permalink: /workshop/
-title: "Pre-conference Workshop: Mental health and the New NLP"
+title: "Pre-conference workshop on Monday 8 June to be announced"
+<!--
 ---
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -237,7 +238,7 @@ Dr Tao Wang, Research Fellow in Heath Text Analytics and Data Science, King’s 
 Understanding clinical timelines from clinical narratives is critical for accurate diagnosis and effective treatment. Traditional methods for temporal reasoning often depend on rule-based approaches or simple models that struggle to capture the complexity and nuance of clinical language. While large language models (LLMs) hold promise, their capabilities in temporal reasoning remain underexplored. In this work, we construct a new benchmark dataset based on the i2b2 corpus to evaluate LLM performance in clinical temporal information extraction and reasoning. Preliminary results highlight both the potential and current limitations of LLMs in this domain.
 </p></div></td></tr>
 </table>
-
+-->
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
