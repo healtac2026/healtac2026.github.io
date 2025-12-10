@@ -141,21 +141,21 @@ div.scroll-container img {
 </div> -->
 <br>
 <div class="container">
-	<h4 style="color:#009999;">Please Note: All the events happen in TBA </h4>
+	<h4 style="color:#009999;">Please Note: All the events happen in Holiday Inn Brighton - Seafront Hotel </h4>
     <h3>Conference Venue</h3>
-    <p>TBA</p>
+    <p>Holiday Inn Brighton Seafront</p>
 
 <!-- <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:DodgerBlue; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:24px font-family:Akaya Telivigala'></i>e</a> -->
 </div> 
 <br>
 
-<div id="contact" class="map">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2238.4336972614797!2d-4.287506823042735!3d55.87249118276583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x488845cdf92cdf2d%3A0xd14847c3d4ae5e0a!2sGlasgow%20University%20Union!5e0!3m2!1sen!2s!4v1738922306508!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-<h4 style="color:#009999;">How to get to the TBA</h4>
-<img src="https://static.wixstatic.com/media/140841_c3a4ce2ccaf0495fbd5f014e0f23c838~mv2.png/v1/fill/w_1431,h_1011,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Concert%20Terms%20and%20Conditions.png" width="300" height="300">
-<p>Bus - TBA </p>
-<p>Subway - TBA </p>
+<div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=137 Kings Road, Brighton BN1 2JF, United Kingdom&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://wheremylocation.com/">my location</a></div><style>.mapouter{position:relative;text-align:right;width:100%;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:400px;}.gmap_iframe {height:400px!important;}</style></div>
+
+<h4 style="color:#009999;">Getting Here</h4>
+<p>Holiday Inn Brighton - Seafront</p>
+<p>137 Kings Road, Brighton BN1 2JF, United Kingdom</p>
+<p>Tel: 03333 209 324 <a href="tel:+44-3333209324" style="color:DodgerBlue;">03333 209 324</a> </p>
+<p>what3words: <a href="https://calm.kinds.diner" style="color:DodgerBlue;">calm.kinds.diner</a></p>
 
 <br>
 <!-- <p>Information about travel to Glasgow is available <a href="https://www.gla.ac.uk/explore/maps/howtogethere/" style="color:DodgerBlue;">here</a>. Information about accommodation will be posted shortly. 
