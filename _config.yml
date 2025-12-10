@@ -81,7 +81,7 @@ author:
     #  - label: "<strong style='color:#003865;'>Keynotes</strong><br>– <span style='color: black;'><strong>Jason Fries</strong> (Stanford Uni)<br>– <span style='color: black;'><strong>Alison O'Neil</strong> (Canon Medical)"
     #   icon: "far fa-calendar-alt"
     #   url: https://healtac2025.github.io/programme/
-    - label: "<strong style='color:#003865;'>Registration</strong><br>Registration will open in early January<br><br>" 
+    - label: "<strong style='color:#003865;'>Registration</strong><br>Registration will open in <p> early January<br><br>" 
       icon: "far fa-comment"
       url: ""
        
