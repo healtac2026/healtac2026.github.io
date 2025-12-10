@@ -88,6 +88,7 @@ td {
   font-size: 14px;
 }
 </style>
+<!--
 <h4 style="color:#009999;">Please Note: All the events happen in the Glasgow University Union building.</h4>
 
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start;">MONDAY, JUNE 16TH 2025<br>Workshop: Mental health and the New NLP</h5>
@@ -419,3 +420,5 @@ Throughout the conference, we will have presentations from the community across 
 <li>Ian Paul Grant, Margareta A. Kulcsar and Massimo Poesio:	Supporting Autism Spectrum Diagnosis: Behaviour Classification as a Form of Event Extraction</li>
 <li>Adarsa Sivaprasad and Ehud Reiter:	A conversational agent to address patient needs for out-of-distribution explanations</li>
 </ul>
+-->
+To be announced
