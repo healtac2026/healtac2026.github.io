@@ -83,7 +83,7 @@ author:
     #   url: https://healtac2025.github.io/programme/
     - label: "<strong style='color:#003865;'>Registration</strong><br>Registration opens in early January<br><br>" 
       icon: "far fa-comment"
-      url: ""
+      url: "/registration/"
        
     # - label: "<strong style='color:#003865;'>Previous HealTACs</strong><br>"
     #   icon: "fas fa-fw fa-link"
