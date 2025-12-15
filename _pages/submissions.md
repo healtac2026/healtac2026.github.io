@@ -38,11 +38,11 @@ a:active {
 
 <h2>Contribution types</h2>
 <h4 style="color:#009999;">Extended abstracts</h4>
-Extended abstracts will describe either methodological or application work that has not been previously presented in a conference. Contributions should consist of <strong>up to 2 pages, excluding references and a study context section</strong>, and should be prepared based on the template provided below.
-<br>
-Please note that each submission will have to include a <strong>Study Context</strong> explaining any ethics consideration and approvals, funding, stakeholder involvement (e.g. patients and public), availability of data and methods, conflicts of interest, collaborators, etc. <strong>The study context does not count towards the page limit.</strong>
-<br>
-Authors will specify their preferred way of presenting their contribution: as an oral presentation, flash/lightning talk, poster or demo. As in previous years, there will be a post-conference open call to submit a journal-length paper for further peer review and publication in <a href="https://www.frontiersin.org/research-topics/20619/healthcare-text-analytics-unlocking-the-evidence-from-free-text-volume-ii">Frontiers in Digital Health</a>.  
+<p>Extended abstracts will describe either methodological or application work that has not been previously presented in a conference. Contributions should consist of <strong>up to 2 pages, excluding references and a study context section</strong>, and should be prepared based on the template provided below.
+</p>
+<p>Please note that each submission will have to include a <strong>Study Context</strong> explaining any ethics consideration and approvals, funding, stakeholder involvement (e.g. patients and public), availability of data and methods, conflicts of interest, collaborators, etc. <strong>The study context does not count towards the page limit.</strong>
+</p>
+<p>Authors will specify their preferred way of presenting their contribution: as an oral presentation, flash/lightning talk, poster or demo. As in previous years, there will be a post-conference open call to submit a journal-length paper for further peer review and publication in <a href="https://www.frontiersin.org/research-topics/20619/healthcare-text-analytics-unlocking-the-evidence-from-free-text-volume-ii">Frontiers in Digital Health</a>.  
 
 <h4 style="color:#009999;">Software demo sessions</h4>
 Demo sessions will provide a forum for demonstration of solutions and projects to the wider community. Proposals for demos should use the template for extended abstracts and follows the same submission guideline.
