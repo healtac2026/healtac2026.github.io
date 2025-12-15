@@ -18,17 +18,23 @@ body {
 Registration will open in early January
 <!-- Please book via the <a href="https://healtac2026.github.io" style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;" target="_blank">TBA page</a>.-->
 <p></p>
-Early registration fees (<strong>by TBA</strong>):
+Early registration fees (<strong>by 4th May, 2026</strong>):
 <ul>
   <li>Full registration: £200</li>
   <li>Student registration: £100</li>
 </ul>
 
-Late registration fees (<strong>after TBA</strong>):
+Late registration fees (<strong>after 4th May, 2026</strong>):
 <ul>
   <li>Full registration: £300</li>
   <li>Student registration: £150</li>
 </ul>
+
+conference dinner:
+<ul>
+  <li>Conference dinner will be charged seperately at £ 40</li>
+</ul>
+
 
  <p style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;">The fee includes participation for three days (including the tutorial day).
 </p> 

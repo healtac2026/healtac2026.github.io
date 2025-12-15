@@ -1,6 +1,6 @@
 ---
 permalink: /workshop/
-title: "Pre-conference workshop on Monday 8 June to be announced"
+title: "Workshop"
 ---
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -88,6 +88,7 @@ td {
   font-size: 14px;
 }
 </style>
+
 <!--
 <p>Workshop is open to all. If you are interested in presenting at the workshop, please email <span>angus.roberts at kcl.ac.uk</span> with a short abstract for consideration.</p>
 
@@ -239,6 +240,7 @@ Understanding clinical timelines from clinical narratives is critical for accura
 </p></div></td></tr>
 </table>
 -->
+Pre-conference workshop on Monday 8 June to be announced
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;

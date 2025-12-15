@@ -39,10 +39,20 @@ a:active {
       <li>Angus Roberts, King College London</li>
       <li>Elizabeth Ford, University of Brighton/Sussex Medical School</li>
     </ul>
+      <h4>Conference Manager</h4> 
+    <ul>
+      <li>Katarzyna Drobiazg, King College London</li>
+    </ul>
     <h4>Programme Committee Chairs</h4>
     <ul>
       <li>Phoey Teh, Wrexham University</li>
       <li>Arlene Casey, University of Edinburgh</li>
+    </ul>
+      <h4>Website</h4>
+    <ul>
+      <li>Dimitri Ialavoi, Wrexham University</li>
+      <li>Matúš Falis, University of Edinburgh</li>
+      <li>Leo Xinyue Zhang, King's College London</li>
     </ul>
     <h4>PhD Forum Chairs</h4>
     <ul>
@@ -81,13 +91,17 @@ a:active {
   -->
   <li>Goran Nenadic, University of Manchester</li>
   <li>Paul Rayson, Lancaster University</li>
-  <li>Rob Stewart, King's College London</li>
+  <li>Robert Stewart, King's College London</li>
 </ul>
- <h4>Programme Committee and Reviewers</h4>
+
+ <h4>Reviewers</h4>
+ To be announced 
+
+ <!--<h4>Programme Committee and Reviewers</h4>
   <ul>
     <li>Phoey Teh, Wrexham University</li>
     <li>Arlene Casey, University of Edinburgh</li>
- </ul>
+ </ul> -->
 </body>
 </html>
 

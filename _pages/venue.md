@@ -141,9 +141,9 @@ div.scroll-container img {
 </div> -->
 <br>
 <div class="container">
-	<h4 style="color:#009999;">Please Note: All the events happen in Holiday Inn Brighton - Seafront Hotel </h4>
+	<h4 style="color:#009999;">Please Note: All the events will be at <a href="https://www.hibrighton.com/" style='color:#003865'>Holiday Inn Brighton - Seafront Hotel </a></h4>
     <h3>Conference Venue</h3>
-    <p>Holiday Inn Brighton Seafront</p>
+    <p><a href="https://www.hibrighton.com/" style='color:#003865'>Holiday Inn Brighton Seafront</a></p>
 
 <!-- <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:DodgerBlue; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:24px font-family:Akaya Telivigala'></i>e</a> -->
 </div> 
@@ -155,7 +155,7 @@ div.scroll-container img {
 <p>Holiday Inn Brighton - Seafront</p>
 <p>137 Kings Road, Brighton BN1 2JF, United Kingdom</p>
 <p>Tel: 03333 209 324 <a href="tel:+44-3333209324" style="color:DodgerBlue;">03333 209 324</a> </p>
-<p>what3words: <a href="https://calm.kinds.diner" style="color:DodgerBlue;">calm.kinds.diner</a></p>
+<p>what3words: <a href="https://w3w.co/fuzzy.owner.guards" style="color:DodgerBlue;">///fuzzy.owner.guards</a></p>
 
 <br>
 <!-- <p>Information about travel to Glasgow is available <a href="https://www.gla.ac.uk/explore/maps/howtogethere/" style="color:DodgerBlue;">here</a>. Information about accommodation will be posted shortly. 

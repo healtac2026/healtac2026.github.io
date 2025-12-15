@@ -53,15 +53,24 @@ title: "Calls"
 
 <body>
 
-<h3>Please refer to the <a href="https://healtac2026.github.io/submissions">Submission page</a> for the detailed formats.</h3>
+<h3>Please refer to the <a href="/submissions/">Submission page</a> for the detailed formats.</h3>
 
 <h2 style="color:#009999;">Call for contributions</h2>
-Healthcare narrative (such as clinical notes, discharge letters, nurse handover notes, imaging reports, patients posts on social media or feedback comments, etc.) has been used as a key communication stream that contains the majority of actionable and contextualised healthcare data, but which – despite being increasingly available in a digital form – is not routinely analysed and integrated with other healthcare data on a large-scale. There are many barriers and challenges in processing healthcare free text, including, for example, the variability and implicit nature of language expressions, and difficulties in sharing training and evaluation data. On the other hand, recent years have witnessed increasing opportunities to process free text, with a number of success stories that have demonstrated the feasibility of using advanced Natural Language Processing to unlock evidence contained in free text to support clinical care, patient self-management, epidemiological research and audit.
+The 9th Healthcare Text Analytics Conference (HealTAC 2026) invites contributions that address any aspect of healthcare text analytics. This year’s theme is Human-Centered AI & NLP: Bridging Research and Real-World Practice
 
-<p><br>This year, HealTAC will specifically focus on multimodal language models and human-AI interaction in clinical applications. We invite submissions in the form of extended abstracts (up to 2 pages) that describe either methodological or application work, as well as software demos, discussion panels and PhD and fellowship project submissions. The contribution types and the submission process are available <a href="https://healtac2026.github.io/submissions/">here</a>.</p>
+We are delighted to announce a keynote by TBC <!-- whose research focuses on [….] — remove if we don’t have this finalized by next week -->
+
+We invite submissions in the form of extended abstracts (up to 2 pages) describing methodological or application-focused work that has not been previously presented at a conference. Submissions should be prepared based on a template that is available at the conference web site. This year, we will focus on Human-Centered AI & NLP: Bridging Research and Real-World Practice, so we encourage submissions in that space in particular.
+
+We also invite submissions describing ongoing PhD research (at any stage) or planned fellowship applications. The conference will provide an opportunity to receive constructive feedback from a panel of experts.
+
+In addition, we invite submissions for software demonstrations, and new for 2026, we are also welcoming proposals for panel discussions.
+<!-- Healthcare narrative (such as clinical notes, discharge letters, nurse handover notes, imaging reports, patients posts on social media or feedback comments, etc.) has been used as a key communication stream that contains the majority of actionable and contextualised healthcare data, but which – despite being increasingly available in a digital form – is not routinely analysed and integrated with other healthcare data on a large-scale. There are many barriers and challenges in processing healthcare free text, including, for example, the variability and implicit nature of language expressions, and difficulties in sharing training and evaluation data. On the other hand, recent years have witnessed increasing opportunities to process free text, with a number of success stories that have demonstrated the feasibility of using advanced Natural Language Processing to unlock evidence contained in free text to support clinical care, patient self-management, epidemiological research and audit.
+
+<p><br>This year, HealTAC will specifically focus on multimodal language models and human-AI interaction in clinical applications. We invite submissions in the form of extended abstracts (up to 2 pages) that describe either methodological or application work, as well as software demos, discussion panels and PhD and fellowship project submissions. The contribution types and the submission process are available <a href="https://healtac2026.github.io/submissions/">here</a>.</p> -->
 
 <h2 style="color:#009999;">Topics</h2>
-<p> HealTAC 2026 invites contributions that address any aspect of healthcare text analytics. This year’s topics will focus on multimodal language models and human-AI interaction in clinical applications, but other topics are also welcome including: </p>
+<p> HealTAC 2026 invites contributions that address any aspect of healthcare text analytics. This year’s topics will focus on Human-Centered AI & NLP: Bridging Research and Real-World Practice, but other topics are also welcome including: </p>
 <p> </p>
 
 <div class="row">

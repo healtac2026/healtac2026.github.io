@@ -134,7 +134,7 @@ author:
       url: "https://www.kcl.ac.uk/"
     - label: |
         <div style="display: flex; flex-direction: column;">
-      <img src="/assets/images/sponsors/BSMS-Logo-Black.jpg" alt="Brighton and Sussex Medical School" style="margin-bottom: 2.5px; max-width: 160px;">
+        <img src="/assets/images/sponsors/BSMS-Logo-Black.jpg" alt="Brighton and Sussex Medical School" style="margin-bottom: 2.5px; max-width: 200px;">
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
       url: "https://www.bsms.ac.uk/"      
