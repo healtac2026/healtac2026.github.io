@@ -30,13 +30,13 @@ Late registration fees (<strong>after 4th May, 2026</strong>):
   <li>Student registration: £150</li>
 </ul>
 
-conference dinner:
+Conference dinner:
 <ul>
-  <li>Conference dinner will be charged seperately at £ 40</li>
+  <li>Conference dinner will be charged seperately at £40</li>
 </ul>
 
 
- <p style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;">The fee includes participation for three days (including the tutorial day).
+ <p style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;">The fee includes participation for three days (including the pre-conference workshop day).
 </p> 
 
 <p style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;">

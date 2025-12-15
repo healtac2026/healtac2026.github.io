@@ -77,7 +77,7 @@ a:active {
       -->
       <li>Jaya Chaturvedi, King's College London</li>
     </ul>
-    <h4>Post-conference Publication Chair</h4>
+    <h4>Post-conference Publication Chairs</h4>
     <ul>
       <li>Beatrice Alex, University of Edinburgh</li>
       <li>Hang Dong, University of Exeter</li>

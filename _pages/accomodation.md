@@ -40,17 +40,14 @@ We provide the accommodation option at the University's student hall, priced at 
 -->
 
 <h2>Conference Accomodation</h2><br>
-<p>
-  Accommodation is available at the conference venue, <a href="https://www.hibrighton.com/" style='color:#003865'>Holiday Inn Brighton Seafront</a>
-  A discount code is available for conference delegates, which will be emailed to you when you register
-  Please book your accommodation direct with Holiday Inn
-  The cost of accommodation is not included in the registration fee
-  All under a heading of Accommodation at the conference venue
-</p>
+  <p>Accommodation is available at the conference venue, <a href="https://www.hibrighton.com/" style='color:#003865'>Holiday Inn Brighton Seafront</a>.</p>
+  <p>A discount code is available for conference delegates, which will be emailed to you when you register.</p>
+ <p>Please book your accommodation direct with Holiday Inn.</p>
+  <p>The cost of accommodation is not included in the registration fee.</p>
 
 <h2>Alternative accommodation</h2><br>
 <p>
-  Alternative accommodation can be found on the official <a href="https://www.hibrighton.com/" style='color:#003865'>Brighton and Hove City Council</a> site. 
+  Alternative accommodation can be found on the official <a href="https://www.visitbrighton.com/accommodation/hotels/" style='color:#003865'>Brighton and Hove City Council</a> site. 
 </p>
 
 <!--

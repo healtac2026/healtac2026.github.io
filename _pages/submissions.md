@@ -33,7 +33,7 @@ a:active {
 </style>
 </head>
 <body>
-Submission will open in early janjuary 
+<h3>Please use <a href="https://easychair.org/conferences/?conf=healtac2026">Easychair</a> for all submissions.</h3> 
 <!--<h3>Please use <a href="https://easychair.org/conferences/?conf=healtac2025">Easychair</a> for all submissions.</h3> -->
 
 <h2>Contribution types</h2>
@@ -52,7 +52,7 @@ Submissions by PhD students or early career researchers will be presented at the
 <br>
 Contributions should consist of <strong>up to 4 pages (excluding references and study context)</strong> and will be treated separately from the other submissions.
 <h4 style="color:#009999;">Proposals for panel discussions</h4>                         
-Panel discussions can be proposed to address the main challenges in processing healthcare free-text or to discuss the future of particular methodologies. Panels will be allocated 1.5 hour slots for discussions. Proposals for panels should consists of up to 2 pages.
+Panel discussions can be proposed to address the main challenges in processing healthcare free-text or to discuss the future of particular methodologies. Panels will be allocated up to 1.5 hour slots for discussions. Proposals for panels should consists of up to 2 pages.
                                                                                                                 
 <h4 style="color:#009999;">Submission Template</h4>
 The submission template can be accessed here: <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fhealtac2025%2Fhealtac2025.github.io%2Fmain%2F_data%2Ftemplate-2025.docx&wdOrigin=BROWSELINK" download>Word</a>, <a href="https://github.com/healtac2024/healtac2024.github.io/raw/main/_data/Template-HealTAC2022.zip" download>Latex</a>, <a href="https://www.overleaf.com/latex/templates/healtac2024-template/sqgwgbcqsmdx " download>Overleaf</a>.
@@ -67,22 +67,22 @@ The submission template can be accessed here: <a href="https://view.officeapps.l
    
   <tr>
     <td>Deadline for all contributions</td>
-    <td>27/Feb/2026</td>
+    <td>27 Feburary 2026</td>
   </tr>
 
   <tr>
   	<td>Notification of acceptance</td>
-    <td>17/April/2026</td>
+    <td>17 April 2026</td>
   </tr>
   
   <tr>
     <td>Workshop</td>
-    <td>08/June/2026</td>
+    <td>08 June 2026</td>
   </tr>
   
   <tr>
     <td>Conference</td>
-    <td>09-10/June/2026</td>
+    <td>09-10 June 2026</td>
   </tr>
 </table>
  
