@@ -69,42 +69,48 @@ title: "Calls"
 <p> HealTAC 2026 invites contributions that address any aspect of healthcare text analytics. This year’s topics will focus on "Human-Centered AI & NLP: Bridging Research and Real-World Practice", but other topics are also welcome including: </p>
 <p> </p>
 
+  <div class="row">
+    <div class="card">
+       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Human-AI collaboration in healthcare NLPs</p>
+  </div>
+  </div>
+<br>
 <div class="row">
+
   <div class="column">
     <div class="card">
-       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Multi-modal models for healthcare decision support</p>
+       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Chatbots for health</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <p style="color: #ffffff; text-shadow: 0.2px 0.2px">(Large) language models for healthcare text analytics</p>
+      <p style="color: #ffffff; text-shadow: 0.2px 0.2px">LLMs for healthcare text analytics</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Explainable models for healthcare NLP</p>
     </div>
   </div>
 
-  <div class="column">
-    <div class="card">
-       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Machine-learning approaches to healthcare text analytics</p>
-    </div>
-  </div>
 </div>
 <br>
 <div class="row">
-  <div class="column">
+   <div class="column">
     <div class="card">
-       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Transfer learning for healthcare text analytics</p>
+       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Datasets for healthcare text analytics</p>
     </div>
   </div>
-  
-  <div class="column">
-    <div class="card">
-       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Speech analytics for healthcare applications</p>
-    </div>
-  </div>
-  
+ 
   <div class="column">
     <div class="card">
        <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Processing clinical literature and trial reports</p>
+    </div>
+  </div>
+    <div class="column">
+    <div class="card">
+       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Multi-modal models for healthcare decision support</p>
     </div>
   </div>
 </div>
@@ -118,15 +124,15 @@ title: "Calls"
 
   <div class="column">
     <div class="card">
-       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Healthcare ontologies and coding of healthcare text</p>
+       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Ontologies and knowledge graphs for healthcare text</p>
     </div>
   </div>
-  
   <div class="column">
     <div class="card">
-       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Explainable models for healthcare NLP</p>
+       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Speech analytics for healthcare applications</p>
     </div>
-  </div>
+  </div>  
+
 </div>
 <br>
 <div class="row">
@@ -161,12 +167,12 @@ title: "Calls"
        <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Privacy-preserving healthcare analytics</p>
     </div>
   </div>
-
-   <div class="column">
+  <div class="column">
     <div class="card">
-       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Datasets for healthcare text analytics</p>
+       <p style="color: #ffffff; text-shadow: 0.2px 0.2px">Machine-learning approaches to healthcare text analytics</p>
     </div>
   </div>
+
 </div>
 <br>
 <div class="row">
