@@ -159,7 +159,19 @@ author:
         <img src="/assets/images/sponsors/BSMS-Logo-Black.jpg" alt="Brighton and Sussex Medical School" style="margin-bottom: 2.5px; max-width: 200px;">
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://www.bsms.ac.uk/"      
+      url: "https://www.bsms.ac.uk/"  
+    - label: |
+        <div style="display: flex; flex-direction: column;">
+          <img src="/assets/images/sponsors/CogStack.png" alt=Cogstack" style="margin-bottom: 2.5px; max-width: 200px;">
+        </div>
+      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
+      url: "https://cogstack.org/"
+    - label: |
+        <div style="display: flex; flex-direction: column;">
+          <img src="/assets/images/sponsors/Frontiers.jpg" alt="Frontier" style="margin-bottom: 2.5px; max-width: 200px;">
+        </div>
+      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
+      url: "https://www.frontiersin.org/journals/digital-health"   
     - label: "<br><br><strong style='color:#003865;'>Previous HealTACs</strong><br>"
       icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-conference-series/

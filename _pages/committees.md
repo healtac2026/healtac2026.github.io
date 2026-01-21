@@ -48,7 +48,13 @@ a:active {
       <li>Phoey Teh, Wrexham University</li>
       <li>Arlene Casey, University of Edinburgh</li>
     </ul>
-      <h4>Website</h4>
+  <h4>Patient and Public Engagement Representatives</h4>
+  <ul>
+    <li>Jane Taylor</li>
+    <li>Niks Kolosnicins</li>
+  </ul>
+
+  <h4>Website</h4>
     <ul>
       <li>Dimitri Ialavoi, Wrexham University</li>
       <li>Matúš Falis, University of Edinburgh</li>
@@ -93,6 +99,8 @@ a:active {
   <li>Paul Rayson, Lancaster University</li>
   <li>Robert Stewart, King's College London</li>
 </ul>
+
+
 
  <h4>Reviewers</h4>
  To be announced 

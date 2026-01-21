@@ -28,6 +28,10 @@ main:
   #   url: /datesandcalls/
   - title: "Venue"
     url: /venue/
+  - title: "Publication"
+    url: /publication/
+  - title: "News"
+    url: /news/
   # - title: "Sponsors"
   #   url: /sponsors/
   # - title: "News"
