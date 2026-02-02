@@ -262,6 +262,8 @@ In this full-day workshop, the project representatives will present how the need
 
 **TRExt (TRE Text Analytics)** will explore approaches to enable TREs to convert sensitive unstructured text into structured, analysable formats suitable for federated analytics. Using only anonymised and synthetic data, the project will build reusable pipelines that allow researchers to analyse text safely, opening up new possibilities across health, justice, and social research. 
 
+![SAFETEXT logo](/assets/images/safetext.png){: style="max-width:200px;" }
+
 **SAFETEXT (Community-led Protocols for the Safe and Responsible Use of De-identified and Synthetic Healthcare Text for AI Development)** is a working group that will establish best practices to ensure trust and transparency while developing AI technologies that rely on learning from de-identified and synthetic healthcare free-text data.
 
 
