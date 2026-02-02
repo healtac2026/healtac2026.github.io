@@ -41,7 +41,7 @@ receive a discounted registration of £40. Therefore, applicants should
 wait for the review outcome before registering.
 </p>
 
-Childcare:
+<strong>Childcare</strong>:
 <ul>
   <li>We can source local childcare if required for attendees. You would have
 to make your own arrangements to pay for it.</li>

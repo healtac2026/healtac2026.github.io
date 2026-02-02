@@ -421,4 +421,29 @@ Throughout the conference, we will have presentations from the community across 
 <li>Adarsa Sivaprasad and Ehud Reiter:	A conversational agent to address patient needs for out-of-distribution explanations</li>
 </ul>
 -->
-To be announced
+The full programme will be announced here.
+
+
+
+<strong>Keynote speakers</strong>
+
+
+
+Speaker 1: [Prof. Aline Villavicencio](https://experts.exeter.ac.uk/41810-aline-villavicencio)
+
+Aline Villavicencio is a Professor of Natural Language Processing in the Department of Computer Science, University of Exeter, and is also affiliated to the University of Sheffield (UK). She is a member of ELLIS, has a Fellowship at the Alan Turing Institute, and is also a Visiting Scholar at the Federal University of Rio Grande do Norte (Brazil). Until 2025 she was the Director of the Institute of Data Science and Artificial Intelligence, University of Exeter. Before these, she held academic positions in the Institute of Informatics, Federal University of Rio Grande do Sul, Brazil (between 2005 and 2021) and in the School of Computer Science and Electronic Engineering, University of Essex, UK. 
+
+She received her PhD from the University of Cambridge (UK) in 2001, and held postdoc positions at the University of Cambridge and University of Essex (UK). She was a Visiting Scholar at the Massachusetts Institute of Technology (USA, 2011-2012 and 2014-2015), at the École Normale Supé­rieure (France, 2014), an Erasmus-Mundus Visting Scholar at Saarland University (Germany in 2012/2013) and at the University of Bath (UK, 2006-2009).  She held a Research Fellowship from the  Brazilian National Council for Scientific and Technological Development (Brazil, 2009-2017).  
+
+She is the General Chair of EACL 2026 and was the PC Co-Chair of ACL 2022, CoNLL 2019, Senior Area Chair for EMNLP 2025, ACL 2020 and ACL 2019 among others and General co-chair for the 2018 International Conference on Computational Processing of Portuguese. She is a member of the editorial board of Computational Linguistics, TACL and of JNLE.  She was also a member of the NAACL board, SIGLEX board and of the program committees of various *ACL and AI conferences, and has co-chaired  several *ACL workshops on Cognitive Aspects of Computational Language Acquisition and on Multiword Expressions. Her research interests include multilinguality, multiword expressions and terminology, and cognitively motivated NLP, and she has co-edited special issues and books dedicated to these topics.
+
+
+
+
+
+
+Speaker 2: [Dr. Martin Krallinger](https://www.bsc.es/krallinger-martin), Barcelona Supercomputing Center
+
+Martin Krallinger is head of the NLP for Biomedical Information Analysis (NLP4BIA) team at the Barcelona Supercomputing Center (BSC) and an expert in biomedical and clinical language technology systems. His work focuses on developing language technologies for health-related applications such as rare diseases, drug safety, biomaterials, cardiovascular diseases, toxicology, or occupational health, with particular interest in the generation and evaluation of multilingual solutions. 
+
+He is especially known for advancing benchmarking and evaluation of biomedical NLP and LLM-based tools, organizing international community challenges like BioCreative, BioASQ, BIONLP-ST, IberEval, IberLEF, biomedical WMT, and eHealth CLEF. His team has made major contributions to high-quality annotated datasets, medical corpora, and annotation protocols, which support building state-of-the-art transformer-based NLP systems using BSC’s computational resources.
