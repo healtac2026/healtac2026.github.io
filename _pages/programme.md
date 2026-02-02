@@ -429,7 +429,7 @@ The full programme will be announced here.
 
 
 
-Speaker 1: [Prof. Aline Villavicencio](https://experts.exeter.ac.uk/41810-aline-villavicencio)
+[Prof. Aline Villavicencio](https://experts.exeter.ac.uk/41810-aline-villavicencio)
 
 Aline Villavicencio is a Professor of Natural Language Processing in the Department of Computer Science, University of Exeter, and is also affiliated to the University of Sheffield (UK). She is a member of ELLIS, has a Fellowship at the Alan Turing Institute, and is also a Visiting Scholar at the Federal University of Rio Grande do Norte (Brazil). Until 2025 she was the Director of the Institute of Data Science and Artificial Intelligence, University of Exeter. Before these, she held academic positions in the Institute of Informatics, Federal University of Rio Grande do Sul, Brazil (between 2005 and 2021) and in the School of Computer Science and Electronic Engineering, University of Essex, UK. 
 
@@ -442,7 +442,7 @@ She is the General Chair of EACL 2026 and was the PC Co-Chair of ACL 2022, CoNLL
 
 
 
-Speaker 2: [Dr. Martin Krallinger](https://www.bsc.es/krallinger-martin), Barcelona Supercomputing Center
+[Dr. Martin Krallinger](https://www.bsc.es/krallinger-martin), Barcelona Supercomputing Center
 
 Martin Krallinger is head of the NLP for Biomedical Information Analysis (NLP4BIA) team at the Barcelona Supercomputing Center (BSC) and an expert in biomedical and clinical language technology systems. His work focuses on developing language technologies for health-related applications such as rare diseases, drug safety, biomaterials, cardiovascular diseases, toxicology, or occupational health, with particular interest in the generation and evaluation of multilingual solutions. 
 
