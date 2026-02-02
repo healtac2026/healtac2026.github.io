@@ -10,4 +10,4 @@ Funded by **DARE UK**, the workshop will bring together project teams from **STA
 
 The workshop is organised by **Franz Gruber** (University of Edinburgh), **Goran Nenadic** (University of Manchester), and **Yamiko Msosa** (King’s College London).
 
-Further details are available on the [Workshops page](/workshops/).
+Further details are available on the [Workshop page](/workshop/).
