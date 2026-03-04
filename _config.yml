@@ -85,24 +85,42 @@ author:
     #   url: https://healtac2025.github.io/programme/
     - label:  | 
         <strong style='color:#003865;'>Key Dates</strong>
-          <table style="width:100%; border-collapse: collapse; table-layout: fixed;">
+        <table style="width:100%; border-collapse: collapse; table-layout: fixed;">
           <tbody>
+
             <tr>
-              <td style="padding:6px 4px; vertical-align: top;"><strong>Submission </strong></td>
-              <td style="padding:6px 4px; vertical-align: top;">27 February 2026</td>
+              <td style="padding:6px 4px; vertical-align: top;">
+                <strong>Extended submission</strong>
+              </td>
+              <td style="padding:6px 4px; vertical-align: top;">
+                <strong>13 March 2026</strong>
+              </td>
             </tr>
+
             <tr>
-              <td style="padding:6px 4px; vertical-align: top;"><strong>Notification </strong></td>
+              <td style="padding:6px 4px; vertical-align: top;">
+                <strong><s>Submission</s></strong>
+              </td>
+              <td style="padding:6px 4px; vertical-align: top;">
+                <s>27 February 2026</s>
+              </td>
+            </tr>
+
+            <tr>
+              <td style="padding:6px 4px; vertical-align: top;"><strong>Notification</strong></td>
               <td style="padding:6px 4px; vertical-align: top;">17 April 2026</td>
             </tr>
+
             <tr>
               <td style="padding:6px 4px; vertical-align: top;"><strong>Early registration ends</strong></td>
               <td style="padding:6px 4px; vertical-align: top;">4 May 2026</td>
             </tr>
+
             <tr>
               <td style="padding:6px 4px; vertical-align: top;"><strong>Conference</strong></td>
               <td style="padding:6px 4px; vertical-align: top;">8–10 June 2026</td>
             </tr>
+
           </tbody>
         </table>
       icon: "far fa-calendar-alt" 

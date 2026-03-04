@@ -64,14 +64,19 @@ The submission template can be accessed here: <a href="https://view.officeapps.l
     <th>Event</th>
     <th>Date</th>
   </tr>
-   
+
   <tr>
-    <td>Deadline for all contributions</td>
-    <td>27 Feburary 2026</td>
+    <td><strong>Extended submission deadline</strong></td>
+    <td><strong>13 March 2026</strong></td>
   </tr>
 
   <tr>
-  	<td>Notification of acceptance</td>
+    <td><s>Deadline for all contributions</s></td>
+    <td><s>27 February 2026</s></td>
+  </tr>
+
+  <tr>
+    <td>Notification of acceptance</td>
     <td>17 April 2026</td>
   </tr>
   
