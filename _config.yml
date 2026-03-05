@@ -101,7 +101,7 @@ author:
               <td style="padding:6px 4px; vertical-align: top;">
                 <strong><s>Submission</s></strong>
               </td>
-              <td style="padding:6px 4px; vertical-align: top;">
+              <td style="padding:6px 4px; vertical-align: top;"> d
                 <s>27 February 2026</s>
               </td>
             </tr>
@@ -190,6 +190,24 @@ author:
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
       url: "https://www.frontiersin.org/journals/digital-health"   
+    - label: |
+        <div style="display: flex; flex-direction: column;">
+          <img src="/assets/images/sponsors/HDR UK.jpg" alt="HDRUK" style="margin-bottom: 2.5px; max-width: 200px;">
+        </div>
+      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
+      url: "https://www.hdruk.ac.uk/"  
+    - label: |
+        <div style="display: flex; flex-direction: column;">
+          <img src="/assets/images/sponsors/dareuk.png" alt="DareUK" style="margin-bottom: 2.5px; max-width: 200px;">
+        </div>
+      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
+      url: "https://dareuk.org.uk/"  
+    - label: |
+        <div style="display: flex; flex-direction: column;">
+          <img src="/assets/images/safetext.png" alt="safetext" style="margin-bottom: 2.5px; max-width: 200px;">
+        </div>
+      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
+      url: "https://www.linkedin.com/company/safetext-working-group/"  
     - label: "<br><br><strong style='color:#003865;'>Previous HealTACs</strong><br>"
       icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-conference-series/
