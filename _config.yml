@@ -168,6 +168,19 @@ author:
       url: ""
     - label: |
         <div style="display: flex; flex-direction: column;">
+          <img src="/assets/images/sponsors/dareuk.png" alt="DareUK" style="margin-bottom: 2.5px; max-width: 200px;">
+        </div>
+      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
+      url: "https://dareuk.org.uk/"  
+    - label: |
+        <div style="display: flex; flex-direction: column;">
+          <img src="/assets/images/sponsors/HDR UK.jpg" alt="HDRUK" style="margin-bottom: 2.5px; max-width: 200px;">
+        </div>
+      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
+      url: "https://www.hdruk.ac.uk/"  
+
+    - label: |
+        <div style="display: flex; flex-direction: column;">
           <img src="/assets/images/sponsors/kcl-logo.svg" alt="King's College London" style="margin-bottom: 2.5px; max-width: 100px;">
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
@@ -180,6 +193,12 @@ author:
       url: "https://www.bsms.ac.uk/"  
     - label: |
         <div style="display: flex; flex-direction: column;">
+          <img src="/assets/images/safetext.png" alt="safetext" style="margin-bottom: 2.5px; max-width: 200px;">
+        </div>
+      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
+      url: "https://www.linkedin.com/company/safetext-working-group/"  
+    - label: |
+        <div style="display: flex; flex-direction: column;">
           <img src="/assets/images/sponsors/CogStack.png" alt=Cogstack" style="margin-bottom: 2.5px; max-width: 200px;">
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
@@ -190,24 +209,8 @@ author:
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
       url: "https://www.frontiersin.org/journals/digital-health"   
-    - label: |
-        <div style="display: flex; flex-direction: column;">
-          <img src="/assets/images/sponsors/HDR UK.jpg" alt="HDRUK" style="margin-bottom: 2.5px; max-width: 200px;">
-        </div>
-      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://www.hdruk.ac.uk/"  
-    - label: |
-        <div style="display: flex; flex-direction: column;">
-          <img src="/assets/images/sponsors/dareuk.png" alt="DareUK" style="margin-bottom: 2.5px; max-width: 200px;">
-        </div>
-      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://dareuk.org.uk/"  
-    - label: |
-        <div style="display: flex; flex-direction: column;">
-          <img src="/assets/images/safetext.png" alt="safetext" style="margin-bottom: 2.5px; max-width: 200px;">
-        </div>
-      icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
-      url: "https://www.linkedin.com/company/safetext-working-group/"  
+
+
     - label: "<br><br><strong style='color:#003865;'>Previous HealTACs</strong><br>"
       icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-conference-series/
