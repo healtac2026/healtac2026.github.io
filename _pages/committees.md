@@ -75,6 +75,7 @@ a:active {
       <li>Franz Gruber, University of Edinburgh</li>
       <li>Goran Nenadic, University of Manchester</li>
       <li>Yamiko Msosa, King's College London</li>
+      <li>Jaya Chaturvedi, King's College London</li>
     </ul>
     <h4>Publicity Chairs</h4>
     <ul>
