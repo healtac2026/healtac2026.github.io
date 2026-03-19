@@ -211,7 +211,7 @@ author:
       url: "https://www.frontiersin.org/journals/digital-health"   
     - label: |
         <div style="display: flex; flex-direction: column;">
-          <img src="/assets/images/sponsors/maudsley_logo.png" alt="Maudsley" style="margin-bottom: 2.5px; max-width: 200px;">
+          <img src="/assets/images/sponsors/Maudsley_logo.png" alt="Maudsley" style="margin-bottom: 2.5px; max-width: 200px;">
         </div>
       icon: "<i class='fas fa-square' style='visibility: hidden;'></i>"
       url: "https://www.maudsleybrc.nihr.ac.uk/"   
