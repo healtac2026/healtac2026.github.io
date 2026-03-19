@@ -45,8 +45,10 @@ a:active {
     </ul>
     <h4>Programme Committee Chairs</h4>
     <ul>
+    <li>Arlene Casey, University of Edinburgh</li>
+    <li>Franz Gruber, University of Edinburgh</li>
       <li>Phoey Teh, Wrexham University</li>
-      <li>Arlene Casey, University of Edinburgh</li>
+      
     </ul>
   <h4>Patient and Public Engagement Representatives</h4>
   <ul>
