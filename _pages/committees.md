@@ -36,12 +36,12 @@ a:active {
 <body>
     <h4>Conference Chairs</h4> 
     <ul>
-      <li>Angus Roberts, King College London</li>
+      <li>Angus Roberts, King's College London</li>
       <li>Elizabeth Ford, University of Brighton/Sussex Medical School</li>
     </ul>
       <h4>Conference Manager</h4> 
     <ul>
-      <li>Katarzyna Drobiazg, King College London</li>
+      <li>Katarzyna Drobiazg, King's College London</li>
     </ul>
     <h4>Programme Committee Chairs</h4>
     <ul>
