@@ -6,7 +6,7 @@ title: "From patient narratives to text analytics insights"
 Pre-conference workshop on Monday 8 June.
 
 
-## From patient narratives to text analytics insights: applying text analytics to scalable lived experience data for new discoveries
+## From patient narratives to insights: applying text analytics to scalable lived experience data for new discoveries
 
 <div style="text-align: ;">
   <a href="https://www.maudsleybrc.nihr.ac.uk/" target="_blank">
@@ -17,7 +17,7 @@ Pre-conference workshop on Monday 8 June.
 </div>
   <p style="font-size: 0.85em; margin-top: 6px; color: #555;">
     Organised by NIHR Maudsley Biomedical Research Centre<br>
-    with NIHR Mental Health Translational Research Collaboration
+    with NIHR Mental Health Translational Research Collaboration(TRC) Mission.
   </p>
 ## Description
 How do we transform patient narrative data into actionable insights at scale? This interactive two-hour workshop will address how text analytics can be applied to lived experience data at scale. By bringing text analytics scientists together with behavioural scientists, qualitative researchers, people with relevant lived experiences (PERLEs), and other key stakeholders, we will go beyond analysing clinician-reported data to explore how transdisciplinary collaboration can unlock meaning from large amounts of patient-reported text data.
