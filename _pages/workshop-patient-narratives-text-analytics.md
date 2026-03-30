@@ -15,7 +15,7 @@ Pre-conference workshop on Monday 8 June.
 </div>
   <p style="font-size: 0.85em; margin-top: 6px; color: #555;">
     Organised by NIHR Maudsley Biomedical Research Centre<br>
-    with NIHR Mental Health Translational Research Collaboration(TRC) Mission.
+    with NIHR Mental Health Translational Research Collaboration (TRC) Mission.
   </p>
 
 ## Description
