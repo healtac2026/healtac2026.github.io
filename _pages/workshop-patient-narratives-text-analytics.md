@@ -1,12 +1,10 @@
 ---
 permalink: /workshops/patient-narratives-text-analytics/
-title: "From patient narratives to insights"
+title: "From patient narratives to insights: applying text analytics to scalable lived experience data for new discoveries"
 ---
 
 Pre-conference workshop on Monday 8 June.
 
-
-## From patient narratives to insights: applying text analytics to scalable lived experience data for new discoveries
 
 <div style="text-align: ;">
   <a href="https://www.maudsleybrc.nihr.ac.uk/" target="_blank">

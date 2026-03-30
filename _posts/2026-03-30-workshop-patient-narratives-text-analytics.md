@@ -1,10 +1,10 @@
 ---
-title: "Workshop announced: From patient narratives to text analytics insights"
+title: "Workshop announced: From patient narratives to insights: applying text analytics to scalable lived experience data for new discoveries"
 categories: [news]
 tags: [workshops, patient-narratives, text-analytics, lived-experience]
 ---
 
-We are pleased to announce a new workshop at **HealTAC 2026**: **From patient narratives to text analytics insights: applying text analytics to scalable lived experience data for new discoveries**.
+We are pleased to announce a new workshop at **HealTAC 2026**: **From patient narratives to insights: applying text analytics to scalable lived experience data for new discoveries**.
 
 This interactive two-hour workshop will explore how text analytics can be applied to patient-reported narratives and lived experience data at scale. Bringing together text analytics scientists, behavioural scientists, qualitative researchers, people with relevant lived experiences (PERLEs), PPIE contributors, and policy stakeholders, the session will examine the opportunities and challenges of working with patient-generated text for research and translational impact.
 
