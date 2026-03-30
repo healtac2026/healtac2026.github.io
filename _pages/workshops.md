@@ -3,7 +3,7 @@ permalink: /workshops/
 title: "Workshops"
 ---
 
-HealTAC 2026 will feature two workshops on **Monday 8 June 2026**.
+HealTAC 2026 will feature two workshops on **Monday 8 June 2026**. These will be run in one after the other, so that delegates can attend both.
 
 ## Workshops
 
